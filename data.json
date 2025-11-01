@@ -1,0 +1,18 @@
+[
+  {
+    "question": "How can I reset my password?",
+    "answer": "Go to the settings page and click on 'Forgot Password'."
+  },
+  {
+    "question": "How do I sign up?",
+    "answer": "Click on the Sign Up button and fill out the form."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "You can request a refund within 7 days of purchase."
+  },
+  {
+    "question": "How can I contact support?",
+    "answer": "You can email us at support@example.com."
+  }
+]
