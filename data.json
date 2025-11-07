@@ -1,30 +1,18 @@
 [
   {
+    "question": "How can I reset my password?",
+    "answer": "Go to the settings page and click on 'Forgot Password'."
+  },
+  {
     "question": "How do I sign up?",
-    "answer": "Click the 'Get Started' button to create an account. You can use your Google account or sign up with your email and password. If you sign up with email, check your inbox for a verification email. If you don't see it, look in your spam folder. Click the link in the email to activate your account, then you can sign in."
+    "answer": "Click on the Sign Up button and fill out the form."
   },
   {
-    "question": "How do I sign in?",
-    "answer": "Click the 'Sign In' button. Use your Google account if you signed up with it, or enter your email and password if you signed up manually. Make sure your email is verified by checking your inbox or spam folder for the verification email."
+    "question": "What is your refund policy?",
+    "answer": "You can request a refund within 7 days of purchase."
   },
   {
-    "question": "I can't log in",
-    "answer": "Make sure you are using the right email and password. If you signed up with email, check that you clicked the verification link in the email (look in your inbox or spam folder). If it still doesn’t work, contact support for help."
-  },
-  {
-    "question": "I didn't get a verification email",
-    "answer": "Check your spam or junk folder first. If you still cannot find the email, please contact support for assistance."
-  },
-  {
-    "question": "Google sign-in is not working",
-    "answer": "Make sure your Google account is active and logged in. Try signing in using a different browser or clear your browser cache and cookies, then try again. If it still doesn’t work, contact support."
-  },
-  {
-    "question": "How do I change my email or password?",
-    "answer": "Go to your account settings page. There, you can update your email or change your password anytime."
-  },
-  {
-    "question": "I tried to sign up but my email is already used",
-    "answer": "This email is already linked to an account. Please sign in with this email instead, or use a different email to create a new account."
+    "question": "How can I contact support?",
+    "answer": "You can email us at support@example.com."
   }
 ]
