@@ -1,30 +1,116 @@
-[
-  {
-    "question": "How do I sign up?",
-    "answer": "Click the 'Get Started' button to create an account. You can use your Google account or sign up with your email and password. If you sign up with email, check your inbox for a verification email. If you don't see it, look in your spam folder. Click the link in the email to activate your account, then you can sign in."
-  },
-  {
-    "question": "How do I sign in?",
-    "answer": "Click the 'Sign In' button. Use your Google account if you signed up with it, or enter your email and password if you signed up manually. Make sure your email is verified by checking your inbox or spam folder for the verification email."
-  },
-  {
-    "question": "I can't log in",
-    "answer": "Make sure you are using the right email and password. If you signed up with email, check that you clicked the verification link in the email (look in your inbox or spam folder). If it still doesn’t work, contact support for help."
-  },
-  {
-    "question": "I didn't get a verification email",
-    "answer": "Check your spam or junk folder first. If you still cannot find the email, please contact support for assistance."
-  },
-  {
-    "question": "Google sign-in is not working",
-    "answer": "Make sure your Google account is active and logged in. Try signing in using a different browser or clear your browser cache and cookies, then try again. If it still doesn’t work, contact support."
-  },
-  {
-    "question": "How do I change my email or password?",
-    "answer": "Go to your account settings page. There, you can update your email or change your password anytime."
-  },
-  {
-    "question": "I tried to sign up but my email is already used",
-    "answer": "This email is already linked to an account. Please sign in with this email instead, or use a different email to create a new account."
-  }
-]
+{
+  "important_keywords": [
+    "signup", "signin", "login", "password", "email", "verification", "verify",
+    "google", "account", "register", "reset", "post", "blog", "publish", "draft",
+    "edit", "delete", "write", "create", "trash", "permanently", "image", "video",
+    "upload", "html", "format", "bookmark", "profile", "username", "picture",
+    "follow", "comment", "analytics", "views", "likes", "browser", "support",
+    "contact", "security", "data", "monetize", "subscribe", "recover", "category"
+  ],
+  "faqs": [
+    {
+      "question": "How do I sign up?",
+      "answer": "Click the 'Get Started' or 'Join Us' button to create an account. You can use your Google account or sign up with your email and password. If you sign up with email, check your inbox for a verification email. If you don't see it, look in your spam folder. Click the link in the email to activate your account, then you can sign in."
+    },
+    {
+      "question": "How do I sign in?",
+      "answer": "Click the 'Sign In' button. Use your Google account if you signed up with it, or enter your email and password if you signed up manually. Make sure your email is verified by checking your inbox or spam folder for the verification email."
+    },
+    {
+      "question": "I can't log in",
+      "answer": "Make sure you are using the correct email and password. If you signed up with email, ensure you clicked the verification link in the email (check your inbox or spam folder). If it still doesn't work, contact support for help."
+    },
+    {
+      "question": "I didn't get a verification email",
+      "answer": "Check your spam or junk folder first. If you still cannot find the email, please contact support for assistance."
+    },
+    {
+      "question": "Google sign-in is not working",
+      "answer": "Make sure your Google account is active and logged in. Try signing in using a different browser or clear your browser's cache and cookies, then try again. If it still doesn't work, contact support."
+    },
+    {
+      "question": "How do I change my email or password?",
+      "answer": "Go to your account settings page. From there, you can update your email or change your password anytime."
+    },
+    {
+      "question": "I tried to sign up but my email is already used",
+      "answer": "This email is already linked to an account. Please sign in with this email instead, or use a different email to create a new account."
+    },
+    {
+      "question": "How do I create a blog post?",
+      "answer": "After signing in, click 'Write' at the top right of the page (next to the notification bell). Add your title, subtitle, content, and any images you want to include. When you're ready, click 'Publish' to make it live or 'Save Draft' to continue later."
+    },
+    {
+      "question": "Can I edit or delete my post after publishing?",
+      "answer": "Yes. To delete a post, go to your profile (top right, next to the notification bell), find your post, then click the three-dot icon at the top right of the post's image and select 'Move to Trash'. To edit a post, go to the 'Manage Posts' section, open the 'Trash' tab, click the three-dot icon again, select 'Move to Draft', and then open the post to edit it. To permanently delete a post, repeat the process and select 'Delete Permanently', then click 'Confirm'."
+    },
+    {
+      "question": "How do I add images or videos to my post?",
+      "answer": "Currently, video uploads are not supported. However, you can upload image files from your device when creating or editing a post."
+    },
+    {
+      "question": "Can I save a post without publishing it?",
+      "answer": "Yes. Click 'Save Draft' to save your post privately. You can edit or publish it later anytime from your profile."
+    },
+    {
+      "question": "Can I bookmark a post?",
+      "answer": "Yes. To bookmark a post, open the post and click the bookmark icon located at the top right, near the 'Follow' button."
+    },
+    {
+      "question": "Can I view my bookmarked posts?",
+      "answer": "Yes. Click the three horizontal lines (menu icon) on the left side of 'Dailyblogs' in the navigation bar. Then, select 'Bookmarks' from the list — it's located between 'Discovery' and 'About'."
+    },
+    {
+      "question": "How do I reset my password?",
+      "answer": "Click 'Forgot Password?' on the sign-in page, then enter your email address. We'll send you a link to reset your password."
+    },
+    {
+      "question": "How can I change my profile picture or username?",
+      "answer": "Go to your profile page to update your profile picture and bio. To change your username, click your profile, then go to 'Settings'. Under the 'Account' section, select 'Change Username' and proceed to update it."
+    },
+    {
+      "question": "Can I comment on other blog posts?",
+      "answer": "Yes. Scroll to the bottom of any post and type your comment in the comment box. Please follow our community guidelines."
+    },
+    {
+      "question": "Can I follow other bloggers?",
+      "answer": "Yes. Click the 'Follow' button on a user's profile to get notified when they publish new posts."
+    },
+    {
+      "question": "How can I delete my account?",
+      "answer": "Go to your account settings and select 'Delete Account'. Please note that this action is permanent and all your posts and data will be removed."
+    },
+    {
+      "question": "Is my data secure?",
+      "answer": "Yes. We use encryption and secure protocols to protect your account and personal information. For more details, please review our Privacy Policy."
+    },
+    {
+      "question": "Can I view my blog analytics?",
+      "answer": "Yes. You can track your post views, likes, and comments directly from your profile by viewing your posts."
+    },
+    {
+      "question": "What browsers are supported?",
+      "answer": "We recommend using the latest versions of Chrome, Edge, Firefox, or Safari for the best experience. Older browsers may not support all features."
+    },
+    {
+      "question": "How do I contact support?",
+      "answer": "Go to the 'Help Center' or 'Contact Us' page and submit your issue. You can also email us directly at support@[yourdomain].com."
+    },
+    {
+      "question": "Can I use HTML in my blog post?",
+      "answer": "Basic HTML tags are supported for formatting purposes, such as links, lists, and bold text. However, scripts and external embeds are restricted for security reasons."
+    },
+    {
+      "question": "How do I subscribe to a blog or category?",
+      "answer": "Currently, there is no subscription feature for specific blogs or categories. However, you can bookmark blog posts or engage with posts in your preferred categories."
+    },
+    {
+      "question": "How can I recover deleted posts?",
+      "answer": "Unfortunately, deleted posts are permanently removed and cannot be recovered. We recommend saving drafts before deleting anything."
+    },
+    {
+      "question": "Can I monetize my blog?",
+      "answer": "No. Monetization is not currently supported on our website."
+    }
+  ]
+}
